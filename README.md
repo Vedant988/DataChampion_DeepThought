@@ -52,8 +52,8 @@ Website: www.nestle.com
 ## 📋 Setup and Usage
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/company-intelligence-extractor.git
-   cd company-intelligence-extractor
+   git clone https://github.com/Vedant988/DataChampion_DeepThought.git
+   cd DataChampion_DeepThought
    ```
    
 2. Install the required dependencies
