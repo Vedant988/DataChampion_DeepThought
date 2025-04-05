@@ -108,3 +108,9 @@ The extraction process follows these steps:
 - Google API key for Gemini Pro access
 - Input CSV with company names and website URLs
 - Required packages: pandas, requests, beautifulsoup4, langchain, python-dotenv
+
+## 📌 NOTE
+- I have worked with specific versions of the dependencies mentioned. If you encounter any version-related errors (especially with frequently updated libraries like langchain), please ensure to check for the latest compatible versions. The internal structure (such as class locations or import paths) might change across updates, so refer to the official documentation or GitHub repository to resolve any incompatibilities.
+
+## Thank You for Reading..
+
