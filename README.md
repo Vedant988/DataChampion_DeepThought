@@ -78,7 +78,7 @@ Website: www.nestle.com
    
 5. Run the extraction script
    ```bash
-   python company_intelligence.py
+   scrapper.ipynb
    ```
 
 ## 📊 Pipeline Steps
@@ -87,7 +87,6 @@ The extraction process follows these steps:
 1. **Website Content Extraction**:
    - Validates and formats URLs
    - Extracts text from paragraph tags
-   - Applies error handling for failed requests
 
 2. **Wikipedia Information Retrieval**:
    - Searches for official Wikipedia pages
@@ -109,6 +108,3 @@ The extraction process follows these steps:
 - Google API key for Gemini Pro access
 - Input CSV with company names and website URLs
 - Required packages: pandas, requests, beautifulsoup4, langchain, python-dotenv
-
-## 📝 License
-[MIT License](LICENSE)
